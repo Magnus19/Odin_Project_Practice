@@ -1,2 +1,3 @@
-# git_test
-"Odin my father, you have betrayed me."
+# Odin_Project_Practice
+
+"Trying to recall web developing fundamentals in this quick practice using odin project."
